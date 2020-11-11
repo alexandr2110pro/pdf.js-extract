@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/ffalt/pdf.js-extract/issues"
   },
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": {
     "name": "ffalt"
   },
@@ -42,6 +42,7 @@
   "engines": {
     "node": ">=10.0.0"
   },
+  "types": "lib/index.d.ts",
   "readmeFilename": "README.md",
   "devDependencies": {
     "@types/node": "14.11.2",
